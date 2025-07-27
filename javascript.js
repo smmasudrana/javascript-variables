@@ -6,6 +6,7 @@ var height= 5.7;
 
 console.log(age);
 console.log(age+weight+height)
+console.log(typeof age+weight+height)
 
 
 // Stirng type
@@ -16,4 +17,16 @@ var position = "Web developer";
 console.log(name)
 console.log(address)
 console.log(position)
+console.log(typeof position)
+
+
+// Boolean type
+var isRich= true;
+var isPassed= true ;
+var isYouLazy= false;
+
+console.log(isRich)
+console.log(isPassed)
+console.log(isYouLazy)
+console.log(typeof isYouLazy)
 
