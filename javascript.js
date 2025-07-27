@@ -62,3 +62,27 @@ var num = -50/0; //-infinity
 
 console.log(num)
 
+
+// shorthand type
+var price =20;
+price=price+10;  //shorthand type 1 for plus
+price+=10;       //shorthand type 2 for plus
+console.log(price)
+
+var orange = 200;
+orange= orange-50; //type 1 for minus
+orange-= 10;       //type 2 for minus
+console.log(orange)
+
+var lemon =50;
+lemon=lemon*10;  //type 1 for multiplication
+lemon*=2;
+console.log(lemon)
+
+var potato =40;
+potato= potato/2;
+potato/=2;
+console.log(potato)
+
+
+
