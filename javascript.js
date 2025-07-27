@@ -30,3 +30,10 @@ console.log(isPassed)
 console.log(isYouLazy)
 console.log(typeof isYouLazy)
 
+
+// How to write a long variables name
+var my current address ="Bogura";   //wrong case
+var my_current_address ="Bogura";  //snake case
+var myCurrentAddress ="Bogura";    //Camel case
+var MyCurrentAddress ="Bogura";    //Pascal case
+
