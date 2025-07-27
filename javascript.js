@@ -7,3 +7,13 @@ var height= 5.7;
 console.log(age);
 console.log(age+weight+height)
 
+
+// Stirng type
+var name = "Masud Rana";
+var address = "Bogura, Bangladesh";
+var position = "Web developer";
+
+console.log(name)
+console.log(address)
+console.log(position)
+
