@@ -32,8 +32,33 @@ console.log(typeof isYouLazy)
 
 
 // How to write a long variables name
-var my current address ="Bogura";   //wrong case
+// var my current address ="Bogura";   //wrong case
 var my_current_address ="Bogura";  //snake case
 var myCurrentAddress ="Bogura";    //Camel case
 var MyCurrentAddress ="Bogura";    //Pascal case
+
+
+// Number type
+var orangePrice=20;
+var lemonPrice=10;
+var applePrice= parseInt('50');  //when number inside the qoutation its count string and when you add before "perseInt" it will be number
+var applePrice= parseFloat('50.5');  //for vag
+
+
+console.log(orangePrice)
+console.log(lemonPrice)
+console.log(typeof applePrice)
+console.log(orangePrice+lemonPrice+applePrice)
+
+
+var first = 0.1;   //for gun
+var second= 0.2;
+var total =(first+second)
+
+console.log(total.toFixed(5))  //with "tofixed" you can indicate Numer of digit after the decimals point.
+
+var num =50/0;  //infinity
+var num = -50/0; //-infinity
+
+console.log(num)
 
