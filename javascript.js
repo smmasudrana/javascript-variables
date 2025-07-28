@@ -85,4 +85,16 @@ potato/=2;
 console.log(potato)
 
 
+// task 1
+var totalMoney =1000;
+var applePrice =300;
+var orangePrice=400;
+var totalPrice=applePrice+orangePrice;
+console.log(totalPrice)
+
+var returnMoney = totalMoney-totalPrice;
+console.log(returnMoney)
+
+
+
 
