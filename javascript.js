@@ -96,5 +96,19 @@ var returnMoney = totalMoney-totalPrice;
 console.log(returnMoney)
 
 
+// task 2
+var mathmatics =75.25;
+var biology =65;
+var chemistry =80;
+var physics = 50;
+var bangla =75;
+var totalMarks = mathmatics+biology+chemistry+physics+bangla
+console.log(totalMarks)
+
+var averageMarks= totalMarks/5;
+console.log(averageMarks .toFixed(2))
+
+
+
 
 
