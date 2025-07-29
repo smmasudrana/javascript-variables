@@ -109,6 +109,13 @@ var averageMarks= totalMarks/5;
 console.log(averageMarks .toFixed(2))
 
 
+// task 3
+var num1 =119;
+var num2 =5;
+var reminder = num1%num2;
+console.log(reminder)
+
+
 
 
 
